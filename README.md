@@ -1,2 +1,2 @@
 # nestjs-exercises
-Some projects created following the Stephen Grider nextjs's course
+Some projects created following the Stephen Grider nestjs's course
